@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "md5": "^2.3.0",
+    "minecraft-protocol": "^1.30.0",
+    "prismarine-chunk": "^1.28.1",
+    "require-reload": "^0.2.2"
+  }
+}

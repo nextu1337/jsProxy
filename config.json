@@ -1,0 +1,48 @@
+{
+    "prefix": ",",
+    "ircPrefix": "#",
+    "name": "jsProxy",
+    "notLoggedIn": "§cYou are not logged in.",
+    "server":
+    {
+        "server-ip": "127.0.0.1",
+        "server-port": 25565,
+        "version": "1.8.8",
+        "motd": "§6§l%name%\n§7§lNajgorsze proxy na swiecie!",
+        "max-players": 1337,
+        "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAQAAAD2e2DtAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAHdElNRQfmARICAToXKtgGAAADAElEQVR42u3czXXaQBQG0JecNJHjCrTJKg2kD5Iu1EI2WbkGvEoLLkFZZeMG8EkZkwXCIPSD7BAL8+6dFYyQZObTYwYwEQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHDN3i19ApPK0idwJhf8LL9f+gRYlgAkJwDJCUByApCcACQnAMkJQHICkJwAJCcAyQlAcgKQnAAkJwDJCUByApCcACQnAMkJQHICkNwbDUDptCbqqA56q07vJpqoZ+63jhKls3XVHmFrEyU2A8dqZu6f5yljrW9Tqqfe6kT/VGtKKeVg26bz2O2e1wfbr4+2H2y80GQA1qVq23YQmqMA7Pub3rCNt6qNy/ZWXUoppR4NSNXrF4BzOhGA4+swRodlczCop1r9tPdqIDhVJ2wz98sLzQ5AfeK67AZkt9W6rEs9UL53Zb1b/rvHqgfrgwCc1zMrwHgA+ldqVTajs4N93/DwbtpHbTovPAJwfjMDUB0N8PEcYD1QyuuDCWJ/kHfTyOF5w26eMGP6d/EB+LD0Cbzcl3bx9TFuIiLi9qh/FauDW7/ie6f306xj/B689yHuYhU3EXEXD0s/DVdtsgJ0F3n1wPW71y/U0xWgeeqrJmvAvGnl0k/j2zUZgKbUbasGh6fuLAKr0UHul/nd5G44Ovt5wKzXfwH4B7MngcMBGJsS7rcbWgPsF39Ts3wBeA1nCcDuWp85WJ3FXzP6MnAtAXijnwU8z8+IiJmfB6zjc0TctpO7b/EYEfedd/95PWeqANEu2U5fq/33/uqRY6kAb8p2iXi6BtxHxGN8PbjnR9xFxKr32D9L/0lncsE/XxR+JOoVJKkAjBGA5AQgOQFITgCSE4DkBCA5AUhOAJITgOQEIDkBSE4AkhOA5AQgOQFITgCSE4DkBCA5AUhOAJK76P8O9qXg/08FAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4Lr9BTcnglZQVTzKAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIyLTAxLTE4VDAyOjAxOjU3KzAwOjAwA0KVuQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMi0wMS0xOFQwMjowMTo1NyswMDowMHIfLQUAAAAASUVORK5CYII="
+    },
+    "roles": 
+    {
+        "3":
+        {
+            "prefix": "§4§l[ * ] §r",
+            "permissions": ["*"],
+            "color": "§c§l"
+        },
+        "2":
+        {
+            "prefix": "§2§l[ MOD ] §r",
+            "permissions": ["kick", "ban", "warn"],
+            "color": "§a§l"
+        },
+        "1":
+        {
+            "prefix": "§6§l[ VIP ] §r",
+            "permissions": [],
+            "color": "§e§l"
+        },
+        "0":
+        {
+            "prefix": "",
+            "permissions": [
+                "login",
+                "connect",
+                "connectbot",
+                "irc"
+            ],
+            "color": ""
+
+        }
+    }
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "username": "owsiak2115",
+    "password": "1c0ba5db8f0dc64dae988c07d045dc9d",
+    "role": 2,
+    "expires": 4111855200,
+    "lastLogin": 1642546558,
+    "lastIp": "::ffff:127.0.0.1"
+  },
+  {
+    "username": "nextu",
+    "password": "1c0ba5db8f0dc64dae988c07d045dc9d",
+    "role": 3,
+    "expires": 4111855200,
+    "lastLogin": 1642604611,
+    "lastIp": "::ffff:127.0.0.1"
+  }
+]
