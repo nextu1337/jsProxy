@@ -31,5 +31,9 @@ it is powered by [PrismarineJS/node-minecraft-protocol](https://github.com/Prism
 | ------ | ------ | ----------- |
 | MobSpawn | nextu | Allows user to spawn mobs locally |
 
+## TODO
+- Actually implement connecting with either HTTP or SOCKS proxy
+- Fix bug that sends packets X times (X being the number of how many times user connected to a server)
+
 [![CC](https://camo.githubusercontent.com/11b9a412da4f93e847989b8255d8b77d92aecf51741005da3e6e3b8c2b79b219/68747470733a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f6c2f62792d6e632f342e302f38387833312e706e67)](https://creativecommons.org/licenses/by-nc/4.0/)
 **jsProxy** is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
