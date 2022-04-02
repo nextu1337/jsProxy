@@ -1,5 +1,8 @@
 # jsProxy
 
+## Important
+- If you're stuck on Downloading terrain, please use OptiFine (or a client with OptiFine, e.g. BlazingPack)
+
 [![Discord](https://camo.githubusercontent.com/17c914de92d32b7b329dc3af356087944549480570a5dcf10ac10af8310f05d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d6f6e253230646973636f72642d627269676874677265656e2e737667)](https://discord.gg/s7K6EKfrdH)
 
 jsProxy is a minecraft proxy that supports custom plugins,
