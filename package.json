@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "md5": "^2.3.0",
+    "minecraft-protocol": "^1.30.0",
+    "mojangson": "^2.0.2",
+    "prismarine-chunk": "^1.28.1",
+    "prismarine-item": "^1.11.5",
+    "require-reload": "^0.2.2"
+  }
+}
