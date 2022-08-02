@@ -38,16 +38,6 @@ class Client extends ClientPlugin {
             client["head"]["headPitch"] = packet.data.pitch;
         }
     }
-
-    onCommand(client,cmd,args)
-    {
-        switch(cmd)
-        {
-            case "fixpos":
-                client.write("position",{x:client.position.x,y:client.position.y+1,z:client.position.z,yaw:0,pitch:0,flags:0})
-                break;
-        }
-    }
 }
 
 module.exports = Client;
