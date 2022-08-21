@@ -22,7 +22,6 @@ Please look away. this project is a disaster
 | Client | Updates client variables |
 | Server | Manages server and users database, includes Login  |
 | IRC | Allows communication between online proxy users |
-| PacketSpy | Spies on packets sent and received by player |
 | PluginManager | Registers, loads and reloads plugins |
 | PluginAPI | It's not much of an API but it works |
 | Permissions | Adds roles and permissions, configurable in users.json and config.json |
